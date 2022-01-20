@@ -1,0 +1,66 @@
+.circle {
+  position: absolute;
+  width: 440px;
+  height: 440px;
+  left: 760px;
+  top: 148px;
+
+  /* border: 6px dashed rgba(255, 163, 57, 0.8);
+  border-radius: 50%;
+  border-spacing:2rem; */
+}
+.inside {
+  position: absolute;
+  width: 422.83px;
+  height: 422.83px;
+  left: 15px;
+  top: 15px;
+  background: #000000;
+  /* opacity: 0.15; */
+  border-radius: 50%;
+}
+.side1 {
+  position: absolute;
+  width: 211.41px;
+  height: 421.83px;
+  left: -1.41px;
+  top: 1.59px;
+  z-index: 2;
+}
+.side2 {
+  position: absolute;
+  width: 422.83px;
+  height: 426.83px;
+  left: 0.59px;
+  top: -0.41px;
+}
+.line {
+  position: absolute;
+  width: 421.83px;
+  height: 0px;
+  left: -1px;
+  top: 205.59px;
+  border: 6px solid #2c1f4b;
+  transform: rotate(90deg);
+  z-index: 2;
+}
+.player {
+  position: absolute;
+  width: 73.54px;
+  height: 73.54px;
+  left: 172px;
+  top: 180.59px;
+  border-radius: 50%;
+  background: #ffa339;
+  box-shadow: 0px 2px 8px 1px rgb(0 0 0 / 12%);
+  z-index: 2;
+}
+.icon {
+  position: absolute;
+  left: 46.6%;
+  right: 42.91%;
+  top: 46.74%;
+  bottom: 48.34%;
+  /* background: #ffffff; */
+  z-index: 2;
+}
