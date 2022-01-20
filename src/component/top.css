@@ -1,0 +1,173 @@
+.top {
+  position: relative;
+  width: 1280px;
+  height: 748px;
+
+  background: linear-gradient(360deg, rgba(52, 39, 85, 0.59) 0%, #231741 100%),
+    #231741;
+  mix-blend-mode: normal;
+}
+.image1 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 68px;
+  top: 41px;
+
+  background: #ffffff;
+  border-radius: 5px;
+}
+.image2 {
+  position: absolute;
+  width: 12px;
+  height: 13.78px;
+  left: 72.89px;
+  top: 44.11px;
+  mix-blend-mode: normal;
+  /* background: #0d012c; */
+  border-radius: 0.455379px;
+}
+.image3 {
+  position: absolute;
+  width: 1.33px;
+  height: 14.22px;
+  left: 75.55px;
+  top: 42.78px;
+
+  background: #ffffff;
+}
+
+.image4 {
+  position: absolute;
+  width: 1.33px;
+  height: 9.77px;
+  left: 79.11px;
+  top: 46.33px;
+
+  background: #ffffff;
+}
+.logo {
+  position: absolute;
+  width: 111px;
+  height: 33px;
+  left: 96px;
+  top: 36px;
+  font-family: Avenir;
+  /* font-style: normal; */
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 31px;
+  color: #ffffff;
+}
+.details {
+  position: absolute;
+  width: 84px;
+  height: 24px;
+  left: 754px;
+  top: 40px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: right;
+
+  color: #ffffff;
+  display: flex;
+}
+#dropdownMenu1 {
+  background: url("../image/Vector\ 232.png") no-repeat center center/cover;
+  border: none;
+  position: absolute;
+  left: 6px;
+  bottom: 5px;
+}
+.dropdown-menu {
+  position: absolute;
+  width: 150px;
+  height: 163px;
+  left: -69px;
+  top: 26px;
+  background: #ffffff;
+  border-radius: 4px;
+}
+.retail {
+  position: absolute;
+  width: 150px;
+  height: 44px;
+  left: 4px;
+  top: 104px;
+  /* border: 1px solid; */
+}
+.eCom {
+  position: absolute;
+  width: 150px;
+  height: 44px;
+  left: 4px;
+  top: 60px;
+  /* border: 1px solid; */
+}
+.SaaS {
+  position: absolute;
+  width: 150px;
+  height: 44px;
+  left: 4px;
+  top: 16px;
+}
+.work {
+  position: absolute;
+  width: 99px;
+  height: 24px;
+  left: 141px;
+  top: 1px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: right;
+
+  color: #ffffff;
+}
+.price {
+  position: absolute;
+  width: 54px;
+  height: 24px;
+  left: 300px;
+  top: 1px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+.signin {
+  position: absolute;
+  width: 53px;
+  height: 24px;
+  left: 405px;
+  top: 1px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}

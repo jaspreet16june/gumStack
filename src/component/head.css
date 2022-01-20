@@ -1,0 +1,69 @@
+.head {
+  position: absolute;
+  width: 652px;
+  height: 136px;
+  left: 68px;
+  top: 176px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 58px;
+  line-height: 68px;
+  color: #ffffff;
+  text-align: initial;
+}
+.yellow {
+  position: absolute;
+  width: 588px;
+  height: 36px;
+  left: 68px;
+  top: 316px;
+  text-align: initial;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height, or 150% */
+
+  color: #ffa339;
+}
+.content {
+  position: absolute;
+  width: 571px;
+  height: 72px;
+  left: 68px;
+  top: 372px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+  text-align: initial;
+  color: #e6dcff;
+}
+
+.register {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+.button {
+  position: absolute;
+  width: 300px;
+  height: 52px;
+  left: 68px;
+  top: 504px;
+
+  background: #ff3d6b;
+  border-radius: 4px;
+}
